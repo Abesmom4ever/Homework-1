@@ -2,6 +2,7 @@
 
 ## Description
 
+```md
 GIVEN a webpage meets accessibility standards
 WHEN a user views the source code
 THEN they find semantic HTML elements
@@ -13,6 +14,7 @@ WHEN the user view the heading attributes
 THEN they fall in sequential order
 WHEN the user view the title element
 THEN they find a concise, descriptive title
+```
 
 ## Author
 
